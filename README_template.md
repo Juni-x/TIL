@@ -1,5 +1,4 @@
 # 0000
-
 ### 오늘 실습을 통해 배운 내용
 
 * API 요청의 흐름을 직접 확인할 수 있었다.
@@ -8,7 +7,7 @@
 
 링크 넣기 [Leaderboard 사진](https://www.vellum.ai/llm-leaderboard)
     
-사진 넣기 [Untitled](photo/photo_1.png)
+사진 넣기 ![Untitled](photo/photo_1.png)
 
 </br>
 
